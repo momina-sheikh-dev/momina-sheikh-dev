@@ -91,7 +91,7 @@ About Me:
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="center">🔥My Stats </h2>
 
 ###
 
