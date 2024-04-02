@@ -2,6 +2,8 @@
 
 ###
 
+<h2 align="center">My Tech Stack</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -36,6 +38,8 @@
 
 ###
 
+<h2 align="center">Connect with Me</h2>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/momina-sheikh-24660926b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -57,9 +61,9 @@
 </br>
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+   <img src="https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momina-sheikh-dev&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momina-sheikh-dev&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false" alt="Top Languages" />
 </div>
 
 ###
@@ -69,7 +73,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=momina-sheikh-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=momina-sheikh-dev&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ###
