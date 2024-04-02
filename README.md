@@ -1,4 +1,4 @@
-![logo](https://github.com/MuqeetVohra/MuqeetVohra/blob/main/Muqeet.png)
+![logo](https://github.com/momina-sheikh-dev/momina-sheikh-dev/blob/main/Cover.png)
 <h2 align="center">Hey, It's Momina. I am a Low Code Developer at 1Dynamics</h2>
 
 ###
