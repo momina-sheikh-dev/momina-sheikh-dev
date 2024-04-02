@@ -1,5 +1,30 @@
 ![logo](https://github.com/momina-sheikh-dev/momina-sheikh-dev/blob/main/Cover.png)
-<h2 align="center">Hey, It's Momina. I am a Low Code Developer at 1Dynamics</h2>
+<h2 align="center">Hey, It's Momina. A Low Code Developer & A Software Engineer</h2>
+
+<p align='center'>
+Welcome to my GitHub profile! I'm Momina Sheikh a low code developer at 1Dynamics, specializing in Microsoft Power Platform. Additionally, I'm proficient in front-end development. I also serve as the Social Media Lead at GDSC.
+
+</p>
+
+<img align="right" height="170" src="https://camo.githubusercontent.com/57fb8b8f8764e93b53aa0a48831a262f11677aa2f1338354cb4e74c9aa189ea3/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966"  />
+
+###
+
+<div align="center">
+  <img height="120" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
+</div>
+
+About Me:
+
+💼 Currently working at 1Dynamics as a low code developer.
+
+💻 Proficient in front-end development alongside Microsoft Power Platform.
+
+🔍 Passionate about creating intuitive user interfaces and enhancing user experiences.
+
+
+✉️ Email: smomina972@gmail.com
+
 
 ###
 
@@ -29,13 +54,6 @@
 
 ###
 
-<img align="right" height="170" src="https://camo.githubusercontent.com/57fb8b8f8764e93b53aa0a48831a262f11677aa2f1338354cb4e74c9aa189ea3/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966"  />
-
-###
-
-<div align="center">
-  <img height="120" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
-</div>
 
 ###
 
