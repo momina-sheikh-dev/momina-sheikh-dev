@@ -18,9 +18,13 @@ About Me:
 
 💼 Currently working at 1Dynamics as a low code developer.
 
+Currently working as a Branding Consultant at PWiC
+
 💻 Proficient in front-end development alongside Microsoft Power Platform.
 
 🔍 Passionate about creating intuitive user interfaces and enhancing user experiences.
+
+
 
 
 ✉️ Email: smomina972@gmail.com
