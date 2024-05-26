@@ -18,7 +18,7 @@ About Me:
 
 💼 Currently working at 1Dynamics as a low code developer.
 
-💡  Currently working as a Branding Consultant at PWiC (Pakistan Women in Computing)
+💡  Currently working as a Branding Consultant at PWiC (Pakistan Women in Computing) and an Ambassador of Ponder Alliance 
 
 💻 Proficient in front-end development alongside Microsoft Power Platform.
 
