@@ -2,7 +2,7 @@
 <h2 align="center">Hey, It's Momina. A Low Code Developer & A Software Engineer</h2>
 
 <p align='center'>
-Welcome to my GitHub profile! I'm Momina Sheikh a low code developer at 1Dynamics, specializing in Microsoft Power Platform. Additionally, I'm proficient in front-end development. I also serve as the Social Media Lead at GDSC.
+Welcome to my GitHub profile! I'm Momina Sheikh a low code developer at 1Dynamics, specializing in Microsoft Power Platform. Additionally, I'm proficient in front-end development. I also serve as the Social Media Lead at GDSC and JTECH 2024 Social Media Head.
 
 </p>
 
