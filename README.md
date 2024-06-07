@@ -63,7 +63,7 @@ About Me:
 
 <br/>
 
-<h2 align="center">Connect with Me</h2>
+<h2 align="center">Connect with Me!</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/momina-sheikh-24660926b/" target="_blank">
