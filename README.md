@@ -43,8 +43,6 @@ About Me:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -55,13 +53,19 @@ About Me:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/4c404ee3b9f73190f23c194c889274fdb43314d4d767a786eed8e8a117c8f062/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38382f5374617475735f6975636e5f45585f69636f6e2e7376672f34383070782d5374617475735f6975636e5f45585f69636f6e2e7376672e706e67" height="40" alt="Express.js logo" />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/r/react-logo-7B3CE81517-seeklogo.com.png" height="40" alt="React.js logo" />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/n/nodejs-logo-FBE122E377-seeklogo.com.png" height="40" alt="Node.js logo" />
+  <img width="12" />
   <img src="https://seekvectors.com/files/download/microsoft%20office%20powerapp-01.png" height="43" alt="Power Platform logo" />
   <img width="12" />
   <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" height="40" alt="Power BI logo" />
-
-
-
 </div>
+
 
 ###
 
