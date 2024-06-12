@@ -62,7 +62,7 @@ About Me:
   <img src="https://seeklogo.com/images/n/nodejs-logo-FBE122E377-seeklogo.com.png" height="40" alt="Node.js logo" />
   <img width="12" />
   <img src="https://seekvectors.com/files/download/microsoft%20office%20powerapp-01.png" height="43" alt="Power Platform logo" />
-  <img width="12" />
+  <img width="12" height="12"/>
   <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" height="40" alt="Power BI logo" />
 </div>
 
