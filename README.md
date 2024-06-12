@@ -27,7 +27,7 @@ About Me:
 
 
 
-✉️ Email: smomina972@gmail.com
+✉️ Email: mominasheikh.dev@gmail.com
 
 
 ###
@@ -86,8 +86,8 @@ About Me:
   <a href="https://youtube.com/@MominaaSheikh?si=vtXtMW96tBzVMCYP" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="smomina972@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:mominasheikh.dev@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/mina_rescue?igsh=ejZraXJjdjBpMGhx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
