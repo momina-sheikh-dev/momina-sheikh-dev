@@ -54,8 +54,11 @@ About Me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://seekvectors.com/files/download/microsoft%20office%20powerapp-01.png" height="43" alt="Power Platform logo" />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" height="40" alt="Power BI logo" />
+
 
 
 </div>
