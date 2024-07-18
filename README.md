@@ -90,7 +90,7 @@ About Me:
 
 <h2 align="center">Connect with Me!</h2>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/momina-sheikh-24660926b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -106,6 +106,14 @@ About Me:
   <a href="https://www.instagram.com/mominasheikh_here?igsh=a3JoazQ3cTRpNWhp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <a href="https://stackoverflow.com/users/24058795/momina-sheikh" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="45" alt="Stackoverflow" />
+  </a>
+  <a href="https://medium.com/@your-medium-username" target="_blank">
+    <i class="fa-brands fa-medium"></i>
+  </a>
+  <a href="https://www.reddit.com/user/your-reddit-username/" target="_blank">
+    <i class="fa-brands fa-reddit"></i>
 </div>
 
 </br>
