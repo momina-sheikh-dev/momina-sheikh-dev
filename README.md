@@ -113,9 +113,11 @@ About Me:
 <h2 align="center">📈Development Metrics</h2>
 <!-- GitHub Stats -->
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    
+ ![](https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momina-sheikh-dev&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false" alt="Top Languages" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=momina-sheikh-dev&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false)<br/>
+
 </div>
 
 ###
