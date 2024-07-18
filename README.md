@@ -73,6 +73,10 @@ About Me:
   <img width="12"/>
   <div>
   <img src="https://static-00.iconduck.com/assets.00/power-virtual-agents-colored-icon-2048x1957-d1kff0zn.png" height="40" alt="Power Virtual Agents" />
+  <img width="12"/>
+  <img src="https://cdn.prod.website-files.com/6569b474d6018f8bee226c62/65c4c223830da32f716e35e6_Dynamics365-logo.png" height="40" alt="Microsoft Dynamics 365" />
+  <img width="12"/>
+  <img src="https://prakashinfotech.com/wp-content/uploads/2023/08/ai-builder-logo.png" height="40" alt="AI Builder" />
   </div>
 </div>
 
