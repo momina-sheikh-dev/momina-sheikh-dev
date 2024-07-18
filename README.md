@@ -66,6 +66,14 @@ About Me:
   <img src="https://seekvectors.com/files/download/microsoft%20office%20powerapp-01.png" height="43" alt="Power Platform logo" />
   <img width="12"/>
   <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" height="40" alt="Power BI logo" />
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" height="40" alt="Power BI Automate" />
+  <img width="12"/>
+  <img src="https://waypathconsulting.com/wp-content/uploads/2024/01/powerPages.png" height="40" alt="Power Pages" />
+  <img width="12"/>
+  <div>
+  <img src="https://static-00.iconduck.com/assets.00/power-virtual-agents-colored-icon-2048x1957-d1kff0zn.png" height="40" alt="Power Virtual Agents" />
+  </div>
 </div>
 
 
