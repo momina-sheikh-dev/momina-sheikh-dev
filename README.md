@@ -15,15 +15,13 @@ Welcome to my GitHub profile! I'm Momina Sheikh, a Microsoft Power Platform Cons
 
 </p>
 
-<img align="right" height="170" src="https://camo.githubusercontent.com/57fb8b8f8764e93b53aa0a48831a262f11677aa2f1338354cb4e74c9aa189ea3/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966"  />
-
 ###
 
 <div align="center">
   <img height="120" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
 </div>
 
-About Me:
+<em><b>About Me:</b></em>
 
 💼 Currently working at 1Dynamics as a low code developer.
 
@@ -39,9 +37,13 @@ About Me:
 ✉️ Email: mominasheikh.dev@gmail.com
 
 
-###
 
-<h2 align="center">My Tech Stack</h2>
+</br>
+</br>
+
+
+<h2 align="center">My Tech Stack &nbsp  <img align="center" height="100" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  /></h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -91,10 +93,11 @@ About Me:
 
 
 ###
+</br>
+</br>
 
-<br/>
 
-<h2 align="center">Connect with Me!</h2>
+<h2 align="center">Connect with Me! <img align="center" height="100" src="https://nearme.gtpl.net/VendorpageTheme/Enterprise/EThemeForGTPLCabel/images/loader.gif"  /></h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/momina-sheikh-24660926b/" target="_blank">
@@ -122,9 +125,12 @@ About Me:
     <i class="fa-brands fa-reddit"></i>
 </div>
 
+
+
+</br>
 </br>
 
-<h2 align="center">📈Development Metrics</h2>
+<h2 align="center">Development Metrics &nbsp <img align="center" height="76" src="https://i.pinimg.com/originals/f9/e5/30/f9e530a26254aba5c1ce4469d6ceba43.gif"  /></h2>
 <!-- GitHub Stats -->
 <div align="center">
     
@@ -135,9 +141,10 @@ About Me:
 
 </div>
 <br>
+<br>
 
 
-<h2 align="center">🔥My Stats </h2>
+<h2 align="center">My Stats &nbsp <img align="center" height="60" src="https://media3.giphy.com/media/JGmjLpmTPS5QmgLFAM/200w.gif?cid=6c09b952diq04qijhug95rdyexgw7zmola6gzeosi47jb7bp&ep=v1_gifs_search&rid=200w.gif&ct=s"  /> </h2>
 
 
 
@@ -145,8 +152,9 @@ About Me:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=momina-sheikh-dev&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
-
-<h2 align="center">💬Github Graph </h2>
+<br>
+<br>
+<h2 align="center">Github Graph &nbsp <img align="center" height="50" src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif"  /> </h2>
 
 [![momina-sheikh-dev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=momina-sheikh-dev&theme=github-compact	)](https://github.com/momina-sheikh-dev/github-readme-activity-graph)
 
