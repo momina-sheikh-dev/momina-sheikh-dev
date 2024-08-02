@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-Welcome to my GitHub profile! I'm Momina Sheikh a low code developer at 1Dynamics, specializing in Microsoft Power Platform. Additionally, I'm proficient in front-end development. I also serve as the Social Media Lead at GDSC and JTECH 2024 Social Media Head.
+Welcome to my GitHub profile! I'm Momina Sheikh, a Microsoft Power Platform Consultant at 1Dynamics, specializing in Microsoft Power Platform. Additionally, I'm proficient in front-end development. I also serve as the Social Media Lead at GDSC and JTECH 2024 Social Media Head.
 
 </p>
 
