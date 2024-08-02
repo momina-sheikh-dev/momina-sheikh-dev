@@ -1,4 +1,4 @@
-![logo](https://github.com/momina-sheikh-dev/momina-sheikh-dev/blob/main/Cover2.png)
+![logo](https://github.com/momina-sheikh-dev/momina-sheikh-dev/blob/main/Cover3.png)
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=do%C4%9Fru&vCenter=do%C4%9Fru&repeat=do%C4%9Fru&width=800&height=35&lines=Hey,+It's+Momina+Sheikh.+A+Microsoft+Power+Platform+Developer!" alt="Typing SVG" /></a>
 </h1>
