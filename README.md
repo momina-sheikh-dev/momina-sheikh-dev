@@ -27,7 +27,7 @@ About Me:
 🔍 Passionate about creating intuitive user interfaces and enhancing user experiences.
 
 
-🌎 Linkedin: <a href="https://www.linkedin.com/in/momina-sheikh-24660926b/">Momina Sheikh</a>
+🌎 Linkedin: <a href="https://www.linkedin.com/in/momina-sheikh-24660926b/" target="_blank">Momina Sheikh</a>
 
 ✉️ Email: mominasheikh.dev@gmail.com
 
@@ -91,22 +91,22 @@ About Me:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/momina-sheikh-24660926b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" target="_blank"/>
   </a>
   <a href="https://www.discordapp.com/users/1140956713709731921" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" target="_blank" />
   </a>
   <a href="https://youtube.com/@MominaaSheikh?si=vtXtMW96tBzVMCYP" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  target="_blank"/>
   </a>
   <a href="mailto:mominasheikh.dev@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" target="_blank"/>
   </a>
   <a href="https://www.instagram.com/mominasheikh_here?igsh=a3JoazQ3cTRpNWhp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" target="_blank" />
   </a>
   <a href="https://stackoverflow.com/users/24058795/momina-sheikh" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="45" alt="Stackoverflow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="45" alt="Stackoverflow" target="_blank" />
   </a>
   <a href="https://medium.com/@your-medium-username" target="_blank">
     <i class="fa-brands fa-medium"></i>
