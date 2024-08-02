@@ -27,7 +27,7 @@ About Me:
 🔍 Passionate about creating intuitive user interfaces and enhancing user experiences.
 
 
-
+🌎 Linkedin: <a href="https://www.linkedin.com/in/momina-sheikh-24660926b/">Momina Sheikh</a>
 
 ✉️ Email: mominasheikh.dev@gmail.com
 
