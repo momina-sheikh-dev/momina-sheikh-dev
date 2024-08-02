@@ -1,7 +1,14 @@
 ![logo](https://github.com/momina-sheikh-dev/momina-sheikh-dev/blob/main/Cover3.png)
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=do%C4%9Fru&vCenter=do%C4%9Fru&repeat=do%C4%9Fru&width=800&height=35&lines=Hey,+It's+Momina+Sheikh.+A+Microsoft+Power+Platform+Consultant!" alt="Typing SVG" /></a>
-</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+      <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=do%C4%9Fru&vCenter=do%C4%9Fru&repeat=do%C4%9Fru&width=800&height=35&lines=Hey,+It's+Momina+Sheikh.+A+Microsoft+Power+Platform+Consultant!" alt="Typing SVG" />
+  </a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align='center'>
 Welcome to my GitHub profile! I'm Momina Sheikh, a Microsoft Power Platform Consultant at 1Dynamics, specializing in Microsoft Power Platform. Additionally, I'm proficient in front-end development. I also serve as the Social Media Lead at GDSC and JTECH 2024 Social Media Head.
