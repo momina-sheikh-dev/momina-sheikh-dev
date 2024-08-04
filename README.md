@@ -44,56 +44,128 @@ Welcome to my GitHub profile! I'm Momina Sheikh, a Microsoft Power Platform Cons
 
 <h2 align="center">My Tech Stack &nbsp  <img align="center" height="100" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  /></h2>
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://camo.githubusercontent.com/4c404ee3b9f73190f23c194c889274fdb43314d4d767a786eed8e8a117c8f062/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38382f5374617475735f6975636e5f45585f69636f6e2e7376672f34383070782d5374617475735f6975636e5f45585f69636f6e2e7376672e706e67" height="40" alt="Express.js logo" />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/r/react-logo-7B3CE81517-seeklogo.com.png" height="40" alt="React.js logo" />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/n/nodejs-logo-FBE122E377-seeklogo.com.png" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://seekvectors.com/files/download/microsoft%20office%20powerapp-01.png" height="43" alt="Power Platform logo" />
-  <img width="12"/>
-  <img src="https://waypathconsulting.com/wp-content/uploads/2024/01/powerPages.png" height="40" alt="Power Pages" />
-  <img width="12"/>
-  <img src="https://static-00.iconduck.com/assets.00/power-virtual-agents-colored-icon-2048x1957-d1kff0zn.png" height="40" alt="Power Virtual Agents" />
-  <img width="12"/>
-  <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" height="40" alt="Power BI logo" />
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" height="40" alt="Power BI Automate" />
-  <img width="12"/>
-  <img src="https://cdn.prod.website-files.com/6569b474d6018f8bee226c62/65c4c223830da32f716e35e6_Dynamics365-logo.png" height="40" alt="Microsoft Dynamics 365" />
-  <img width="12"/>
-  <img src="https://prakashinfotech.com/wp-content/uploads/2023/08/ai-builder-logo.png" height="40" alt="AI Builder" />
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="icon" width="60" height="60" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="css" />
+      <br>CSS
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="bootstrap" />
+      <br>Bootstrap
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="60" height="60" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+       <img src="https://skillicons.dev/icons?i=jquery"width="60" height="60" alt="jQuery" />
+      <br>jQuery
+    </td>
+    <td align="center"  width="96">
+         <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center"  width="96">
+         <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-dart-9294871-7578014.png?f=webp"width="60" height="60" alt="Dart" />
+      <br>Dart
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" alt="Express" />
+      <br>Express
+    </td>
+        <td align="center" width="96">
+        <img src="https://seekvectors.com/files/download/microsoft%20office%20powerapp-01.png" width="60" height="60" alt="Power Platform" />
+      <br>Power Platform
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://waypathconsulting.com/wp-content/uploads/2024/01/powerPages.png" width="60" height="60" alt="Power Pages" />
+      <br>Power Pages
+    </td>
+            <td align="center" width="96">
+        <img src="https://static-00.iconduck.com/assets.00/power-virtual-agents-colored-icon-2048x1957-d1kff0zn.png" width="60" height="60" alt="Power Virtual Agent" />
+      <br>Power VA
+    </td>
+              <td align="center" width="96">
+        <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="60" height="60" alt="Power BI" />
+      <br>Power BI
+    </td>
+              <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" width="60" height="60" alt="Power Automate" />
+      <br>Power Automate
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.prod.website-files.com/6569b474d6018f8bee226c62/65c4c223830da32f716e35e6_Dynamics365-logo.png" alt="icon" width="60" height="60" />
+      </a>
+      <br>Dynamics 365
+    </td>
+              <td align="center" width="96">
+        <img src="https://prakashinfotech.com/wp-content/uploads/2023/08/ai-builder-logo.png" width="60" height="60" alt="AI Builder" />
+      <br>AI Builder
+    </td>
   
-</div>
+ </tr>
+</table>
+<br><br>
+</table>
 
 
-###
-
-
-###
-</br>
 </br>
 
 
