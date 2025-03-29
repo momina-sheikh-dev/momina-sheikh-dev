@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch GitHub Stats
         run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&show_icons=true&theme=dracula&count_private=true&token=${{ secrets.GH_STATS_TOKEN }}"
+         curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&show_icons=true&theme=dracula&count_private=true&token=${{ secrets.GH_PAT }}"
 
       - name: Update README
         run: |
