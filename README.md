@@ -206,10 +206,10 @@ Welcome to my GitHub profile! I'm Momina Sheikh, a Microsoft Power Platform Cons
 <!-- GitHub Stats -->
 <div align="center">
     
- ![](https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=momina-sheikh-dev&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false)<br/>-->
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=momina-sheikh-dev&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=momina-sheikh-dev&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=10&count_private=true"/>
 
 </div>
 <br>
@@ -228,6 +228,6 @@ Welcome to my GitHub profile! I'm Momina Sheikh, a Microsoft Power Platform Cons
 <br>
 <h2 align="center">Github Graph &nbsp <img align="center" height="50" src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif"  /> </h2>
 
-[![momina-sheikh-dev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=momina-sheikh-dev&theme=github-compact	)](https://github.com/momina-sheikh-dev/github-readme-activity-graph)
+[![momina-sheikh-dev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=momina-sheikh-dev&theme=github-compact&count_private=true	)](https://github.com/momina-sheikh-dev/github-readme-activity-graph)
 
 ###
