@@ -206,7 +206,7 @@ Welcome to my GitHub profile! I'm Momina Sheikh, a Microsoft Power Platform Cons
 <!-- GitHub Stats -->
 <div align="center">
     
- ![](https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+ ![](https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=momina-sheikh-dev&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false)<br/>-->
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=momina-sheikh-dev&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=10&count_private=true"/>
