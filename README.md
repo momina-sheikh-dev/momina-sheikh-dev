@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Momina Sheikh, a Microsoft Power Platform Cons
 
 <em><b>About Me:</b></em>
 
-💼 Currently working at 1Dynamics as a low code developer.
+💼 Currently working at 1Dynamics as a Microsoft Power Platform Consultant.
 
 💡  Currently working as a Branding Consultant at PWiC (Pakistan Women in Computing) and an Ambassador of Ponder Alliance 
 
