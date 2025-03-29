@@ -221,7 +221,7 @@ Welcome to my GitHub profile! I'm Momina Sheikh, a Microsoft Power Platform Cons
 
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=momina-sheikh-dev&theme=dracula&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=momina-sheikh-dev&theme=dracula&hide_border=false&count_private=true" alt="GitHub Streak" />
 </div>
 
 <br>
