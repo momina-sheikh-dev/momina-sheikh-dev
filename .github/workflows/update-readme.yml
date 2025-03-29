@@ -21,9 +21,11 @@ jobs:
           sed -i 's|!\[GitHub Stats\](.*)|![GitHub Stats](stats.svg)|' README.md
 
       - name: Commit & Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "Updated GitHub Stats"
-          git push
+          git commit -m "Updated GitHub Stats" || echo "No changes to commit"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/momina-sheikh-dev/momina-sheikh-dev.git HEAD:main
