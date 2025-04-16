@@ -24,10 +24,15 @@ Welcome to my GitHub profile! I'm Momina Sheikh, a Microsoft Power Platform Cons
 <em><b>About Me:</b></em>
 
 💼 Currently working at 1Dynamics as a Microsoft Power Platform Consultant.
+
 🌐 Google Developer Group On Campus Organizer, actively fostering tech communities and developer growth.
+
 👩‍💼 President of JTech 2025, leading student-driven innovation, events, and tech initiatives.
+
 💡 Also served as a Branding Consultant at PWiC (Pakistan Women in Computing) and an Ambassador of Ponder Alliance.
+
 👩‍💻 Proficient in front-end development alongside expertise in the Microsoft Power Platform.
+
 🎯 Passionate about crafting intuitive user interfaces and enhancing overall user experiences.
 
 
